@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# folder
+doc_embeddings
+
 # C extensions
 *.so
 

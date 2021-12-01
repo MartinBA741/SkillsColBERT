@@ -5,6 +5,7 @@ __pycache__/
 
 # folder
 doc_embeddings
+query_embeddings
 
 # C extensions
 *.so

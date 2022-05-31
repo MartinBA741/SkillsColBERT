@@ -1,0 +1,7 @@
+pytorch-pretrained-bert 
+pytorch-nlp 
+scikit-learn 
+matplotlib 
+sentence-transformers
+flask
+redis
